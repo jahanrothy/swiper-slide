@@ -1,0 +1,11 @@
+.img_box img {
+  max-width: 100%;
+}
+.slider_container .container {
+  padding: 0 15px;
+  max-width: 1230px;
+  margin: 0 auto;
+}
+.cart_slider {
+  padding: 50px 0;
+}
